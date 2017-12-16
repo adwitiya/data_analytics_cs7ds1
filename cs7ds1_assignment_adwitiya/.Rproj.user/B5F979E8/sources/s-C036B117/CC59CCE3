@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513460373117.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CC59CCE3",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1513460373117,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CD52D9BE",
+        "caption" : "Employee",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Employee&cache_key=CD52D9BE",
+        "displayedObservations" : 1470,
+        "environment" : "",
+        "object" : "Employee",
+        "preview" : 0,
+        "totalObservations" : 1470,
+        "variables" : 35
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

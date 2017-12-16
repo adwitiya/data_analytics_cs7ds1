@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513463437306.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "28360F47",
+    "lastKnownWriteTime" : 1513464414,
+    "last_content_update" : 1513464414232,
+    "path" : "~/Desktop/data analytics/rproject/cs7ds1_assignment_adwitiya/comparision.r",
+    "project_path" : "comparision.r",
+    "properties" : {
+        "cursorPosition" : "90,40",
+        "scrollLine" : "74",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

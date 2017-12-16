@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513460643081.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A835035",
+    "lastKnownWriteTime" : 1513462576,
+    "last_content_update" : 1513462576212,
+    "path" : "~/Desktop/data analytics/rproject/cs7ds1_assignment_adwitiya/single_tree.r",
+    "project_path" : "single_tree.r",
+    "properties" : {
+        "cursorPosition" : "93,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

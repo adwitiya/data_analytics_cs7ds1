@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513460303449.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "47A63D7A",
+    "lastKnownWriteTime" : 1513460682,
+    "last_content_update" : 1513460682436,
+    "path" : "~/Desktop/data analytics/rproject/cs7ds1_assignment_adwitiya/examine_data.r",
+    "project_path" : "examine_data.r",
+    "properties" : {
+        "cursorPosition" : "63,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
