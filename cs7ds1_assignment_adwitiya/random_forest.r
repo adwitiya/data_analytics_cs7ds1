@@ -1,4 +1,4 @@
-# Build a Random Forest model using the traditional approach.
+# Build a Random Forest model using the traditional approach. RF
 
 set.seed(crv$seed)
 
