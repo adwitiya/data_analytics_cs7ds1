@@ -1,5 +1,5 @@
 # Extreme Boost 
-
+# XGBoost Model
 # The `xgboost' package implements the extreme gradient boost algorithm.
 
 # Build the Extreme Boost model.
